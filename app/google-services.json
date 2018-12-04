@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "390917442911",
+    "firebase_url": "https://gamezrollandlab9.firebaseio.com",
+    "project_id": "gamezrollandlab9",
+    "storage_bucket": "gamezrollandlab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390917442911:android:d8170908761c7ead",
+        "android_client_info": {
+          "package_name": "com.gamez.rolland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390917442911-92uemn4k4070mj6ndfp4cghp8klk4qgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIVcajk_ZW62D9GlIVrfxkaZOaO7Tgmq0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
